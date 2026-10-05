@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Datos (se quedan en OneDrive)
+*.csv
+*.h5
+*.xml
+*.root
+
+# Configuración local
+.vscode/
+.claude/
+configuracion_captura.json
