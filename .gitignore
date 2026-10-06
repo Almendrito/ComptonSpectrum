@@ -1,15 +1,18 @@
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Testing/
+
 # Python
 __pycache__/
 *.pyc
-.venv/
 
-# Datos (se quedan en OneDrive)
+# Resultados de simulación
+*.root
 *.csv
 *.h5
-*.xml
-*.root
 
 # Configuración local
 .vscode/
 .claude/
-configuracion_captura.json
